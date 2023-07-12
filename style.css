@@ -22,7 +22,8 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color:background: rgb(246,246,246);
+background: radial-gradient(circle, rgba(246,246,246,0.22032563025210083) 0%, rgba(255,243,247,0.4864320728291317) 32%, rgba(255,236,243,0.8925945378151261) 68%, rgba(255,223,235,1) 94%);
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
